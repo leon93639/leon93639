@@ -1,10 +1,9 @@
 
-### My skills for fullstack
+### My skills
 
 
 ###
 - [ ] JS
-- [ ] TypeScript
 
 ###
 - [ ] HTML & CSS
@@ -13,28 +12,14 @@
 
 ###
 - [ ] React.js
-- [ ] Redux
 - [ ] Vue.js
-- [ ] Nuxt.js
-- [ ] Angular
-- [ ] React Native
-- [ ] Electron.js
 
-###
-- [ ] Node.js
-- [ ] next.js
-- [ ] express.js
 
 ###
 - [ ] MySQL
-- [ ] PostgreSQL
-- [ ] MongoDB
 
-###
+
 - [ ] Git & Github
 
-###
-- [ ] Docker & Kubernetes
 
-###
-- [x] Linux
+
